@@ -10,22 +10,26 @@ Most of my work revolves around transaction-heavy systems, workflow automation, 
 
 **Backend Engineering**
 - ASP.NET Core API
-- Transaction handling & data integrity
-- Concurrency control
-- Background processing
-- Realtime communication (SignalR)
+- RESTful APIs
+- PHP
+- C#
 
 **Frontend**
-- React + Vite
-- Next.Js
-- Tailwind UI systems
-- WinForms business interfaces
-- State management & performance optimization
+- React.js + Vite
+- Next.js
+- React Native
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap 
 
 **Database**
 - PostgreSQL
 - SQL Server
+- Microsoft Azure Cloud
+- Supabase
 - Query optimization
-- Relational modeling
-- Indexing strategies
+
 
