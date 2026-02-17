@@ -29,10 +29,3 @@ Most of my work revolves around transaction-heavy systems, workflow automation, 
 - Relational modeling
 - Indexing strategies
 
-**Architecture**
-- Clean Architecture
-- Domain-driven structure
-- Idempotent operations
-- Offline-tolerant design
-- Audit-safe financial logic
-
