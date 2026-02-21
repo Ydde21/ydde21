@@ -8,11 +8,12 @@ Most of my work revolves around transaction-heavy systems, workflow automation, 
 
 ## Core Expertise
 
-**Backend Engineering**
+**Backend**
 - ASP.NET Core API
 - RESTful APIs
 - PHP
 - C#
+
 
 **Frontend**
 - React.js + Vite
