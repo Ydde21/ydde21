@@ -23,19 +23,6 @@ Most of my work revolves around transaction-heavy systems, workflow automation, 
 
 ---
 
-### Featured Projects
-
-**[SaveWise](https://github.com/Ydde21/SaveWise)** — Smart savings tracker. A goal-driven personal finance mobile app that projects when you'll reach your goals — not just where your money went.
-`React Native` `TypeScript` `Expo`
-
-**[my-portfolio](https://github.com/Ydde21/my-portfolio)** — Personal portfolio website. Live at [my-portfolio-seven-delta-56.vercel.app](https://my-portfolio-seven-delta-56.vercel.app).
-`React` `TypeScript` `Vite`
-
----
-
-### What I'm Working On
-
-Currently building payroll, finance, and operations SaaS products end to end — from API design and database modeling to deployment on Azure.
 
 ---
 
