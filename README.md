@@ -28,7 +28,7 @@ Most of my work revolves around transaction-heavy systems, workflow automation, 
 
 ### Get in Touch
 
-- 🌐 Portfolio: [my-portfolio-seven-delta-56.vercel.app](https://my-portfolio-seven-delta-56.vercel.app)
+- 🌐 Portfolio: [my-portfolio.vercel.app](https://portfolio-casas.vercel.app)
 - 💼 GitHub: [@Ydde21](https://github.com/Ydde21)
 
 Open to collaborations and full-stack opportunities.
