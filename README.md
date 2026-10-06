@@ -1,34 +1,26 @@
-## Hi, I'm Eddy Casas 👋
+## Hi, I'm Eddy 👋
 
-**Full-Stack Developer**
+**Full-stack developer** building business-grade software — transaction-heavy systems, workflow automation, and developer tooling. I care about correctness, performance, and maintainability.
 
-I design and build business-grade applications focused on correctness, performance, and maintainability.
-Most of my work revolves around transaction-heavy systems, workflow automation, and SaaS platforms.
+### Featured work
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| [**Recurr**](https://github.com/Ydde21/recurr) | Production incident capture & deterministic replay — turn a real production failure into a replayable record you can debug and regression-test locally | TypeScript · Node.js · React · PostgreSQL |
+| [**NotchMeter**](https://github.com/Ydde21/NotchMeter) | AI subscription usage meter in the MacBook notch — Claude, ChatGPT/Codex & Cursor quotas at a glance | Swift · macOS |
+| [**SaveWise**](https://github.com/Ydde21/SaveWise) | Goal-driven personal finance app that projects when you'll reach your savings goals | TypeScript |
+| [**my-portfolio**](https://github.com/Ydde21/my-portfolio) | Personal site & project showcase — [live](https://portfolio-casas.vercel.app) | React · TypeScript · Vite |
 
-### Core Expertise
+### Toolbox
 
-**Backend**
+**Languages** — TypeScript · JavaScript · Swift · C# · PHP
+**Frontend** — React · Next.js · React Native · Tailwind CSS
+**Backend** — Node.js · ASP.NET Core · REST APIs
+**Data & platform** — PostgreSQL · SQL Server · Supabase · Azure · Vercel · pnpm/Turbo monorepos
 
-![](https://img.shields.io/badge/C%23-000?style=flat&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/ASP.NET%20Core-000?style=flat&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=white) ![](https://img.shields.io/badge/REST%20APIs-000?style=flat)
+### Elsewhere
 
-**Frontend**
+- Portfolio — [portfolio-casas.vercel.app](https://portfolio-casas.vercel.app)
+- Recurr site — [recurr-dev.vercel.app](https://recurr-dev.vercel.app)
 
-![](https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=white) ![](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/React%20Native-000?style=flat&logo=react&logoColor=white) ![](https://img.shields.io/badge/TypeScript-000?style=flat&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript&logoColor=white) ![](https://img.shields.io/badge/Tailwind%20CSS-000?style=flat&logo=tailwindcss&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3&logoColor=white)
-
-**Database & Cloud**
-
-![](https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/SQL%20Server-000?style=flat&logo=microsoftsqlserver&logoColor=white) ![](https://img.shields.io/badge/Supabase-000?style=flat&logo=supabase&logoColor=white) ![](https://img.shields.io/badge/Microsoft%20Azure-000?style=flat&logo=microsoftazure&logoColor=white)
-
----
-
-
----
-
-### Get in Touch
-
-- 🌐 Portfolio: [my-portfolio.vercel.app](https://portfolio-casas.vercel.app)
-- 💼 GitHub: [@Ydde21](https://github.com/Ydde21)
-
-Open to collaborations and full-stack opportunities.
+Open to collaborations and full-stack opportunities — reach me via my portfolio.
