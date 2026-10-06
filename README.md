@@ -12,8 +12,8 @@
 
 ### Toolbox
 
-- **Languages** — TypeScript · JavaScript · Swift · C# · PHP
-- **Frontend** — React · Next.js · React Native · Tailwind CSS
+- **Languages** — TypeScript · JavaScript · Go · Swift · C# · PHP
+- **Frontend** — React · Next.js · React Native · Tauri 2 · Tailwind CSS
 - **Backend** — Node.js · ASP.NET · REST APIs
 - **Data & platform** — PostgreSQL · SQL Server · Supabase · Azure · Vercel · pnpm/Turbo monorepos
 
