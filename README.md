@@ -8,7 +8,6 @@
 |---|---|---|
 | [**Recurr**](https://github.com/Ydde21/recurr) | Production incident capture & deterministic replay — turn a real production failure into a replayable record you can debug and regression-test locally | TypeScript · Node.js · React · PostgreSQL |
 | [**NotchMeter**](https://github.com/Ydde21/NotchMeter) | AI subscription usage meter in the MacBook notch — Claude, ChatGPT/Codex & Cursor quotas at a glance | Swift · macOS |
-| [**SaveWise**](https://github.com/Ydde21/SaveWise) | Goal-driven personal finance app that projects when you'll reach your savings goals | TypeScript |
 | [**my-portfolio**](https://github.com/Ydde21/my-portfolio) | Personal site & project showcase — [live](https://portfolio-casas.vercel.app) | React · TypeScript · Vite |
 
 ### Toolbox
