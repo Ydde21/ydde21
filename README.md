@@ -12,10 +12,10 @@
 
 ### Toolbox
 
-**Languages** — TypeScript · JavaScript · Swift · C# · PHP
-**Frontend** — React · Next.js · React Native · Tailwind CSS
-**Backend** — Node.js · ASP.NET Core · REST APIs
-**Data & platform** — PostgreSQL · SQL Server · Supabase · Azure · Vercel · pnpm/Turbo monorepos
+- **Languages** — TypeScript · JavaScript · Swift · C# · PHP
+- **Frontend** — React · Next.js · React Native · Tailwind CSS
+- **Backend** — Node.js · ASP.NET Core · REST APIs
+- **Data & platform** — PostgreSQL · SQL Server · Supabase · Azure · Vercel · pnpm/Turbo monorepos
 
 ### Elsewhere
 
